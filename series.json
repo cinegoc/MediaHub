@@ -1,0 +1,48 @@
+{
+  "streaming_app": {
+    "sections": [
+      {
+        "section_title": "Originais e exclusivos em destaque",
+        "layout_type": "landscape",
+        "items": [
+          {
+            "id": "ser_01",
+            "type": "series",
+            "title": "The 100",
+            "synopsis": "O detetive particular Ben Reilly é contratado para casos simples... até que gângsteres e uma misteriosa femme fatale tecem uma teia perigosa.",
+            "cover_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB4WfpxkCR1_dW_uEvxW396fpSFCkmxwbmr6xw_nXg9U2HcWd1",
+            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/bxvG5Faq3pVb4RzrHrzM1cvuuk9.png",
+            "release_year": "2026",
+            "seasons_count": 1,
+            "seasons": [
+              {
+                "season_number": 1,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Entre no meu Escritório",
+                    "duration": "46min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Não vai acabar bem pra você.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
+                    "video_url": "https://r4.friqen.sbs/os-100/6lxbmwkoVIix-aVrg3G1H25lRiwgNkg_LZRMQdKhjlAQ7wOd06dciH9VLY4MtanHk3EuEz6HfKg9GP_wBV4El13zjJmVvF74tsHE_Xi8sUIk9Jg.mp4"
+                  },
+                  {
+                    "episode_number": 2,
+                    "title": "Pisando em Ovos",
+                    "duration": "42min",
+                    "time_info": "26 maio PM",
+                    "synopsis": "Você é um investigador. Investigue.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "video_url": "https://r3.t1ctac.site/os-100/6VH_PGHps0Y4zLnNSewljJCCXevOiplB5ZY82Z6CMuxXuDHC4G2RrKU45kZ_XYm118pCpLmn8s9gEu-YIfm3ur9PynZGUI2zjMyzrtOkzXOkaSs.mp4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
