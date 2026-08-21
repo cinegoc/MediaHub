@@ -1,0 +1,287 @@
+{
+  "streaming_app": {
+    "sections": [
+      {
+        "section_title": "Coleção - Scooby-Doo!",
+        "layout_type": "portrait",
+        "items": [
+          {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "Scooby-Doo! O Filme (Live-Action)",
+            "tag": "TOP 10",
+            "synopsis": "A Mistério S/A se reúne após dois anos de separação para investigar eventos paranormais em um resort de férias infestado de segredos.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/l7ahxf0da0h7wb6/Scooby-Doo%2521_O_Filme.mp4/file"
+          }, 
+          {
+            "id": "mov_02",
+            "type": "movie",
+            "title": "Scooby-Doo na Ilha dos Zumbis",
+            "tag": "TOP 10",
+            "synopsis": "A turma viaja para uma ilha remota que esconde segredos sombrios, onde descobrem que monstros reais, incluindo zumbis e lobisomens, realmente existem.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/6s7s6d61rq3zxlx/Scooby-Doo_na_Ilha_dos_Zumbis.mp4/file"
+          },
+          {
+            "id": "mov_03",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Perseguição Cibernética",
+            "tag": "TOP 10",
+            "synopsis": "A turma é sugada para dentro de um jogo de videogame de alta tecnologia baseado em suas próprias aventuras para derrotar o Vírus Fantasma.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/ziwz56ny9ndvceo/Scooby-Doo%2521_e_a_Persegui%25C3%25A7%25C3%25A3o_Cibern%25C3%25A9tico.mp4/file"
+          },
+          {
+            "id": "mov_04",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Lenda do Vampiro",
+            "tag": "TOP 10",
+            "synopsis": "Durante uma viagem de férias à Austrália, a gangue vai a um festival de música em Vampire Rock e precisa enfrentar vampiros de verdade.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/j2z03slalibtm90/Scooby-Doo%2521_e_a_Lenda_do_Vampiro.mp4/file"
+          },
+          {
+            "id": "mov_05",
+            "type": "movie",
+            "title": "Scooby-Doo! e o Monstro do México",
+            "tag": "TOP 10",
+            "synopsis": "Convidados para visitar o México, Scooby e a turma investigam o misterioso Monstro Verde que está assustando os moradores locais.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/r20mtowu6ub89kk/Scooby-Doo%2521_e_o_Mostro_do_M%25C3%25A9xico.mp4/file"
+          },
+          {
+            "id": "mov_06",
+            "type": "movie",
+            "title": "Scooby-Doo! e o Abominável Homem das Neves",
+            "tag": "TOP 10",
+            "synopsis": "Em uma viagem aos Himalaias para uma competição de snowboard, a turma se depara com a lendária e assustadora criatura das neves.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/x8ngjc2alsr35rm/Scooby-Doo%2521_e_o_Abomin%25C3%25A1vel_Homem_D%25C3%25A1s_Neves.mp4/file"
+          },
+          {
+            "id": "mov_07",
+            "type": "movie",
+            "title": "Scooby-Doo! O Mistério Começa (Live-Action)",
+            "tag": "TOP 10",
+            "synopsis": "Filme live-action que mostra como Salsicha, Scooby, Fred, Daphne e Velma se conheceram e formaram a Mistério S/A.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/ngmvv287gkjw610/Scooby-Doo%2521_O_Mist%25C3%25A9rio_Come%25C3%25A7a.mp4/file"
+          },
+          {
+            "id": "mov_08",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Espada do Samurai",
+            "tag": "TOP 10",
+            "synopsis": "Viajando para o Japão em busca de um tesouro valioso, a turma do Scooby-Doo se vê envolvida em uma competição de artes marciais e na lenda de um samurai fantasma.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/k6yhwbmjwh5457o/Scooby-Doo%2521_e_a_Espada_do_Samurai.mp4/file"
+          },
+          {
+            "id": "mov_09",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Maldição do Monstro do Lago (Live-Action)",
+            "tag": "TOP 10",
+            "synopsis": "Durante as férias de verão em um resort de propriedade do tio de Daphne, a gangue investiga estranhas aparições e ataques de um monstro lacustre.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/vdtn3siigrvcd6j/Scooby-Doo%2521_e_a_Maldi%25C3%25A7%25C3%25A3o_do_Mostro_do_Lago.mp4/file"
+          },
+          {
+            "id": "mov_10",
+            "type": "movie",
+            "title": "Scooby-Doo! A Lenda do Fantasmossauro",
+            "tag": "TOP 10",
+            "synopsis": "Em um resort de férias, a turma investiga o ressurgimento de um dinossauro fantasmagórico que está aterrorizando a região.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/cfb81ln5hebhjap/Scooby-Doo%2521_A_Lenda_do_Fantasmossauro.mp4/file"
+          },
+          {
+            "id": "mov_11",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Maldição do Frankenstein",
+            "tag": "TOP 10",
+            "synopsis": "A Mistério S/A viaja para a Transilvânia e acaba tendo que lidar com monstros clássicos de horror em um castelo misterioso.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/dcfqdbp42n2k7kr/Scooby-Doo%2521_e_a_Maldi%25C3%25A7%25C3%25A3o_do_Frankstein.mp4/file"
+          },
+          {
+            "id": "mov_12",
+            "type": "movie",
+            "title": "Scooby-Doo! A Máscara do Falcão Azul",
+            "tag": "TOP 10",
+            "synopsis": "Em uma convenção de quadrinhos, a turma conhece seu herói favorito de infância, o Falcão Azul, que precisa enfrentar um vilão robótico.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/nj5jfv19s1m9oem/Scooby-Doo%2521_a_M%25C3%25A1scara_do_Falc%25C3%25A3o_Azul.mp4/file"
+          },
+          {
+            "id": "mov_13",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Fantasma Gourmet",
+            "tag": "TOP 10",
+            "synopsis": "Scooby e Salsicha participam de um famoso festival culinário em uma escola de gastronomia, mas o evento é assombrado pelo fantasma de um chef.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/fxbbpyfs9cno4bc/Scooby-Doo%2521_e_a_Fantasma_Gourmet.mp4/file"
+          },
+          {
+            "id": "mov_14",
+            "type": "movie",
+            "title": "Scooby-Doo! Natal Assombrado",
+            "tag": "TOP 10",
+            "synopsis": "A turma tenta aproveitar as festas de fim de ano, mas um boneco de neve monstro ameaça estragar o Natal na cidade.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/6x25808394a3pw8/Scooby-Doo%2521_Natal_Assombrado.mp4/file"
+          },
+          {
+            "id": "mov_15",
+            "type": "movie",
+            "title": "Scooby-Doo! Gol de Fantasma",
+            "tag": "TOP 10",
+            "synopsis": "Em um acampamento de futebol, a turma investiga o aparecimento de uma fera misteriosa que está assustando os atletas.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/gfsqrap2s2scaur/Scooby_Doo%2521_Gol_de_Fantasma.mp4/file"
+          },
+          {
+            "id": "mov_16",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Maldição dos 13º Fantasmas",
+            "tag": "TOP 10",
+            "synopsis": "A gangue se reúne novamente para completar a missão inacabada de capturar o último fantasma da arca dos 13 fantasmas.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/qxo4jg6hfk0wnky/Scooby-Doo%2521_e_A_Maldi%25C3%25A7%25C3%25A3o_dos_13%25C2%25B0_Fantasma.mp4/file"
+          },
+          {
+            "id": "mov_17",
+            "type": "movie",
+            "title": "Scooby-Doo! De Volta à Ilha dos Zumbis",
+            "tag": "TOP 10",
+            "synopsis": "A turma decide tirar férias e viaja novamente para a famosa ilha dos zumbis, sem saber que novos mistérios os aguardam.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/errc5c12vegjjsq/Scooby-_Doo%2521_De_Volta_%25C3%25A0_Ilha_dos_Zumbis.mp4/file"
+          },
+          {
+            "id": "mov_18",
+            "type": "movie",
+            "title": "Feliz Halloween, Scooby-Doo!",
+            "tag": "TOP 10",
+            "synopsis": "Em Crystal Cove, a gangue se une a velhos conhecidos para impedir que uma gosma de abóbora mutante destrua o Halloween.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/cl29ctq9n2vfm51/Feliz_Halloween%252C_Scooby-Doo%2521.mp4/file"
+          },
+          {
+            "id": "mov_19",
+            "type": "movie",
+            "title": "Diretamente de Lugar Nenhum, Scooby-Doo! Encontra Coragem",
+            "tag": "TOP 10",
+            "synopsis": "A Mistério S/A viaja para a cidade de Lugar Nenhum no Kansas e se une ao cão Coragem para investigar um estranho objeto voador.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/t978r8robalgww3/Diretamente_de_Lugar_Nenhum%252C_Scooby-Doo%2521_Encontra_Coragem.mp4/file"
+          },
+          {
+            "id": "mov_20",
+            "type": "movie",
+            "title": "Scooby-Doo! e Krypto, o Supercão",
+            "tag": "TOP 10",
+            "synopsis": "A turma se junta ao supercão do Superman para combater uma misteriosa ameaça que fez os heróis da Liga da Justiça desaparecerem.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/8khjkatg26zqq39/Scooby_Doo%2521_e_Krypton_-_O_Superc%25C3%25A3o.mp4/file"
+          },
+          {
+            "id": "mov_21",
+            "type": "movie",
+            "title": "Scooby-Doo! Gostosuras ou Travessuras",
+            "tag": "TOP 10",
+            "synopsis": "No Halloween, a turma precisa desvendar uma série de aparições de fantasmas falsos que estão aterrorizando a vizinhança.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/fkjnewubzrfautk/Scooby-Doo%2521_Gostosuras_ou_Travessuras.mp4/file"
+          },
+          {
+            "id": "mov_22",
+            "type": "movie",
+            "title": "Scooby-Doo! e o Combate do Salsicha",
+            "tag": "TOP 10",
+            "synopsis": "Uma aventura cheia de confusões onde Salsicha e Scooby se encontram no centro de uma disputa épica e hilária.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/1rzceg5em88ay16/Scooby-doo%2521_E_O_Combate_Do_Salsicha.mp4/file"
+          },
+          {
+            "id": "mov_23",
+            "type": "movie",
+            "title": "Scooby-Doo! Monstros a Solta",
+            "tag": "TOP 10",
+            "synopsis": "A Mistério S/A investiga uma figura mascarada que planeja aterrorizar a cidade de Coolsville usando os monstros clássicos que a gangue já derrotou no passado.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/duelr6e7gze44iy/Scooby-Doo%2521_Monstros_a_solta.mp4/file"
+          },
+          {
+            "id": "mov_24",
+            "type": "movie",
+            "title": "Scooby-Doo! O Filme (Animação Alternativa)",
+            "tag": "TOP 10",
+            "synopsis": "Versão animada alternativa e especial focada nas origens e novas missões da turma da Mistério S/A.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/enumlsf2x6qj3sf/Scooby-Doo%2521_O_Filme_%2528HD%2529.mp4/file"
+          },
+          {
+            "id": "mov_25",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Espada (Versão Alternativa)",
+            "tag": "TOP 10",
+            "synopsis": "Versão adicional ou alternativa com foco na jornada épica da espada samurai e mistérios do oriente.",
+            "cover_url": "",
+            "banner_url": "",
+            "logo_url": "",
+            "video_url": "https://www.mediafire.com/file/6iyfi47nqqtux12/Scooby_Doo%2521_e_a_Espada.mp4/file"
+          }
+        ]
+      }
+    ]
+  }
+}
