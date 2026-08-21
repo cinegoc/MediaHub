@@ -1,0 +1,78 @@
+{
+  "streaming_app": {
+    "sections": [
+      {
+        "section_title": "Filmes e Animações",
+        "layout_type": "portrait",
+        "items": [
+          {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "Caçadores de Trolls: A Ascensão dos Titãs",
+            "tag": "TOP 10",
+            "synopsis": "Os heróis de Arcadia Oaks se unem em uma aventura épica para enfrentar a Ordem Arcana e impedir que eles libertem os antigos Titãs, o que traria o fim do mundo.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/d9zoPJ4HUvqY9OpWImHgEsCHP4D.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/3OwaKVZf3A2NdnarqKbwzFEhKir.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/fsHc0VFXkzoVAJGypOa8uUxQRKb.png",
+            "video_url": "https://www.mediafire.com/file/08oh3jfuhg76pxx/Ca%25C3%25A7adores_de_Trolls_a_Ascen%25C3%25A7%25C3%25A3o_dos_T%2At%25C3%25A3s.mp4/file"
+          },
+          {
+            "id": "mov_02",
+            "type": "movie",
+            "title": "Kung Fu Panda: Especial de Natal",
+            "tag": "TOP 10",
+            "synopsis": "Po é convidado a organizar o prestigiado banquete de inverno do Palácio de Jade, mas ele se vê dividido entre as suas responsabilidades como Dragão Guerreiro e as tradições de sua família.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/7vmcTODIMNOoksL2YL5yZPmFTLL.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/cMR6Mpo8N6JVKbEuxet6N0p1NMA.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/jM423zFa27sPlc3NH912RUgFHnX.png",
+            "video_url": "https://www.mediafire.com/file/mkikh613t5514pu/Kung_Fu_Panda_Especial_de_Natal.mp4/file"
+          },
+          {
+            "id": "mov_03",
+            "type": "movie",
+            "title": "Kung Fu Panda",
+            "tag": "TOP 10",
+            "synopsis": "Um panda preguiçoso e desajeitado, fã de artes marciais, é inesperadamente escolhido para realizar uma profecia antiga e precisa aprender kung fu para enfrentar um perigoso vilão.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/b5vwn36z7QAcAWxnHaHSeXqo3NO.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/6A74hNVUvnsWHUUbRt374jBL4Kt.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/dOtcCZ4mO5LPdEf6XA0HbCJo40d.png",
+            "video_url": "https://www.mediafire.com/file/dwl909ab2rxu25q/Kung_Fu_Panda.mp4/file"
+          },
+          {
+            "id": "mov_04",
+            "type": "movie",
+            "title": "Megamente e o Sindicato da Perdição",
+            "tag": "TOP 10",
+            "synopsis": "Megamente precisa aprender a ser um herói enquanto tenta impedir seu antigo grupo de vilões de colocar seus planos malignos em prática e conquistar a cidade.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/eV45yp4f4pNyBFE9OtvTXIigDFo.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/jbWBGO9OCb1hPdA4yxn0AoWHv8m.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/tLTe9I57ZTwW7DZXp7S0MHjhusW.png",
+            "video_url": "https://www.mediafire.com/file/n33xsddb4ok4aq0/Megamente_e_o_sindicato_da_perdi%25C3%25A7%25C3%25A3o.mp4/file"
+          },
+          {
+            "id": "mov_05",
+            "type": "movie",
+            "title": "Next Gen",
+            "tag": "TOP 10",
+            "synopsis": "Uma menina solitária forma uma amizade improvável com um robô secreto enquanto lutam contra um vilão que deseja dominar o mundo através da tecnologia.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/iohOuTT3OAuvzkiNPFSL7fUWhD6.jpg",
+            "logo_url": "https://image.tmdb.org/t/p/original/xHKxU4rrO5yRZp5mTXoePOrw2sK.png",
+            "video_url": "https://www.mediafire.com/file/2pxdadr55yzecap/Next_Gen.mp4/file"
+          },
+          {
+            "id": "mov_06",
+            "type": "movie",
+            "title": "O Senhor dos Anéis",
+            "tag": "TOP 10",
+            "synopsis": "Um jovem hobbit e um grupo de companheiros partem em uma jornada perigosa pela Terra Média para destruir o Um Anel e derrotar o senhor sombrio Sauron.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/kSoGbVpd1CMBE9sb33Yp7NpgQgd.jpg",
+            "banner_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/pzUTEhOmwthcxzzH4q9wMOfG5LD.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/5pACQei9R4XYz3mA99dVJcl63ho.png",
+            "video_url": "https://www.mediafire.com/file/1rpiq52zl77aau2/O_Senhor_dos_an%25C3%25A9is.mp4/file"
+          }
+        ]
+      }
+    ]
+  }
+}
