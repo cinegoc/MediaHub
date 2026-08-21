@@ -1,0 +1,89 @@
+{
+  "streaming_app": {
+    "sections": [
+      {
+        "section_title": "Filmes e Animações",
+        "layout_type": "portrait",
+        "items": [
+          {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "A Serpente Verde",
+            "tag": "TOP 10",
+            "synopsis": "Após a destruição da Torre de Leifeng, Xiao Qing é enviada para uma cidade distópica e surreal, onde deve lutar para encontrar sua irmã e escapar de um ciclo infinito de sofrimento e vingança.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/fxwt2VqJ4FvJSfJJyE2oWjRWnBk.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/qcXOZEHGtVnJxBQVU9c2P2Seu0Q.png",
+            "video_url": "https://www.mediafire.com/file/y9cbp0ffrm08il9/A_Serpente_Verde.mp4/file"
+          },
+          {
+            "id": "mov_02",
+            "type": "movie",
+            "title": "Avatar: O Último Mestre do Ar",
+            "tag": "TOP 10",
+            "synopsis": "Em um mundo dividido em quatro nações elementares, o jovem Aang, o último Avatar, deve dominar os quatro elementos para restaurar o equilíbrio e deter a guerra iniciada pela Nação do Fogo.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/mU8oyBpD847SVoZWvG1s2t6mVa5.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/wfVBPNroCEnHH2RjdxVlISB2ByK.png",
+            "video_url": "https://www.mediafire.com/file/5ufook913167wgg/Avatar_Aang_o_%25C3%25BAltimo_mestre_do_ar.mp4/file"
+          },
+          {
+            "id": "mov_03",
+            "type": "movie",
+            "title": "Homem-Aranha: No Aranhaverso",
+            "tag": "TOP 10",
+            "synopsis": "Miles Morales, um adolescente do Brooklyn, se torna o Homem-Aranha de sua realidade e cruza caminhos com outros Homens-Aranha de universos paralelos para deter uma ameaça que coloca todas as dimensões em perigo.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/2ea3XXYIpYLYoyICPJqinW9Z67K.png",
+            "video_url": "https://www.mediafire.com/file/lmke0kctnh0zc51/Homem_Aranha_-_no_Aranha_Verso.mp4/file"
+          },
+          {
+            "id": "mov_04",
+            "type": "movie",
+            "title": "O Bicho Vai Pegar",
+            "tag": "TOP 10",
+            "synopsis": "Boog, um urso domesticado, vê sua vida mudar drasticamente quando ele e um cervo falastrão, Elliot, acabam perdidos na floresta pouco antes da temporada de caça começar. Eles precisam aprender a conviver e sobreviver na selva.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/yrCAtaDpwf563En3h7sdZesz7I3.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/6ZAKRBpQeMUfYYRIjgceUpROTMJ.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/aY9iE1VhXqHWmigpQuxrw2YD5wd.png",
+            "video_url": "https://www.mediafire.com/file/zztdzgvuu75gdpu/O_Bicho_vai_Pegar.mp4/file"
+          },
+          {
+            "id": "mov_05",
+            "type": "movie",
+            "title": "O Bicho Vai Pegar 2",
+            "tag": "TOP 10",
+            "synopsis": "Quando o cãozinho salsicha Mr. Weenie é sequestrado por um grupo de animais de estimação mimados que querem devolvê-lo aos seus donos humanos, Boog, Elliot e seus amigos da floresta partem em uma missão de resgate.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/b6Buk3rbXMikOegfdMO2w2wJBKf.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/56UQ3iluZUqH2GN84cFutBxlunX.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/j1LrB9XBTcE9lcetNbKDGgB1zyR.png",
+            "video_url": "https://www.mediafire.com/file/mg2i8fhhl7k4aun/O_Bicho_vai_Pegar_2.mp4/file"
+          },
+          {
+            "id": "mov_06",
+            "type": "movie",
+            "title": "O Bicho Vai Pegar 3",
+            "tag": "TOP 10",
+            "synopsis": "Boog decide realizar uma viagem anual com seus amigos, mas Elliot conta uma história sobre um urso que fugiu de um circo. Boog, curioso, acaba trocando de lugar com um urso de circo idêntico e descobre que a vida nas luzes não é tão fácil quanto parece.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/cwPUGK0THXrgqaFf4QnG5pdmnJw.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/vQ0pQcyjXc7LMF49n6sFEqDZ40S.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/4YXNWrAqPMRGe1mLa5KjHhMNJW5.png",
+            "video_url": "https://www.mediafire.com/file/cydbxjiyo5a5u7p/O_Bicho_vai_Pegar_3.mp4/file"
+          },
+         {
+            "id": "mov_07",
+            "type": "movie",
+            "title": "O Bicho Vai Pegar 4",
+            "tag": "TOP 10",
+            "synopsis": "Elliott, Boog e todos os seus amigos da floresta estão de volta para uma aventura emocionante e hilária. Desta vez, eles se deparam com um mito local sobre um lobisomem assustador que aterroriza a floresta, o que causa muita confusão entre eles.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/z2dwEPtt8xBP6DSehwuwOGskokL.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/jQkNKF1GJ61duFev4iPtObse1ZK.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/ZkvVgFN34MfZBJBeU58a2q7IFZ.png",
+            "video_url": "https://www.mediafire.com/file/43tkv7u0b5ol9xg/O_Bicho_vai_Pegar_4.mp4/file"
+          }
+        ]
+      }
+    ]
+  }
+}
