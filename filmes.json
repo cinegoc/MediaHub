@@ -1,22 +1,5 @@
 {
   "streaming_app": {
-    "categories": [
-      "Filmes",
-      "Séries",
-      "Esportes",
-      "TV ao vivo"
-    ],
-    "hero_banner": {
-      "id": "hero_01",
-      "title": "REACHER",
-      "badge": "NOVO EPISÓDIO",
-      "badge_sub": "Novo episódio quarta-feira",
-      "promo": "Período de teste gratuito do Prime",
-      "cover_url": "",
-      "banner_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-      "logo_url": "https://image.tmdb.org/t/p/original/reacher_logo.png",
-      "video_url": "https://r2.friqen.xyz/resident-evil-condenacao/LvocE9NgMqcX4Q2VCJkLIIgBSgZtmqk0z6yQHEQAeL8-RnOZdzMMu7x5VM6pu8O2EO570R6xOcYga502Bvsk9zwy5xgc4XxC_lTXevIR7Tc69A.mp4"
-    },
     "sections": [
       {
         "section_title": "As melhores escolhas de hoje para você",
