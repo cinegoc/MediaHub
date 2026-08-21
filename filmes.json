@@ -26,7 +26,31 @@
             "banner_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/rhGmwjiUdEGkhFBn5fxtGjkFiTq.png",
             "video_url": "https://drive.usercontent.google.com/download?id=1SO5F6zPOF9LN7j5VU11e_k8TGkHEj4Zi&export=download&confirm=t&uuid=07a42778-df4a-4c44-8299-72ee753d2f9d"
-          }
+          },
+          {
+            "id": "mov_03",
+            "type": "movie",
+            "title": "Resident Evil 2: Apocalipse",
+            "tag": "TOP 10",
+            "synopsis": "
+Desde que foi capturada pela Corporação Umbrella, Alice (Milla Jovovich) passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine (Sienna Guillory) e Carlos Olivera (Oded Fehr) para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.",
+            "cover_url": "https://image.tmdb.org/t/p/original/ep3XjTc4ytZiItGvY6SypQZIryp.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/5PJP3NaiH9ZJRzrEHLeqSY5rNxb.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/iyVqaqqP6Fg09V7yE5MZGl1IYzo.png",
+            "video_url": "https://www.mediafire.com/file/4u7tb14ezp9obd7/%25282004%2529_Apocalipse_-_1080P_5.1_Dual_%25C3%2581udio.mp4/file"
+          },
+
+
+
+
+
+
+
+
+
+
+
+
         ]
       }
     ]
