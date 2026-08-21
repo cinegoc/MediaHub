@@ -10,7 +10,7 @@
             "type": "movie",
             "title": "Resident Evil: Degeneração",
             "tag": "TOP 10",
-            "synopsis": "An elite operative must protect a vital asset across hostile territories under extreme pressure.",
+            "synopsis": "Um ataque bioterrorista leva um vírus mortal ao aeroporto de Harvardville. Leon S. Kennedy e Claire Redfield, sobreviventes do incidente em Raccoon City, se reencontram 7 anos depois para enfrentar a ameaça e descobrir a verdade por trás da corporação WilPharma.",
             "cover_url": "https://image.tmdb.org/t/p/original/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg",
             "banner_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
             "logo_url": "https://m.media-amazon.com/images/S/pv-target-images/0c08e1966863a4d47cbddaf5a69793d9271266e635a70dd6b315ce77d806f69e._BR-6_AC_SX600_FMwebp_.png",
@@ -21,7 +21,7 @@
             "type": "movie",
             "title": "Resident Evil: A Ilha Fatal (2023)",
             "tag": "TOP 10",
-            "synopsis": "A space mission faces unknown cosmic anomalies threatening the entire solar system.",
+            "synopsis": "O agente Leon S. Kennedy entra em uma missão para resgatar o Dr. Antonio Taylor, enquanto Chris Redfield investiga um surto de zumbis em São Francisco. As pistas levam os heróis a um único lugar: a antiga prisão na Ilha de Alcatraz, onde um novo pesadelo os aguarda.",
             "cover_url": "https://image.tmdb.org/t/p/original/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
             "banner_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/rhGmwjiUdEGkhFBn5fxtGjkFiTq.png",
@@ -32,24 +32,12 @@
             "type": "movie",
             "title": "Resident Evil 2: Apocalipse",
             "tag": "TOP 10",
-            "synopsis": "Desde que foi capturada pela Corporação Umbrella, Alice (Milla Jovovich) passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine (Sienna Guillory) e Carlos Olivera (Oded Fehr) para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.",
+            "synopsis": "Desde que foi capturada pela Corporação Umbrella, Alice (Milla Jovovich) passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Raccoon, onde recebe o apoio de Jill Valentine (Sienna Guillory) e Carlos Olivera (Oded Fehr) para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.",
             "cover_url": "https://image.tmdb.org/t/p/original/ep3XjTc4ytZiItGvY6SypQZIryp.jpg",
             "banner_url": "https://image.tmdb.org/t/p/original/5PJP3NaiH9ZJRzrEHLeqSY5rNxb.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/iyVqaqqP6Fg09V7yE5MZGl1IYzo.png",
             "video_url": "https://www.mediafire.com/file/4u7tb14ezp9obd7/%25282004%2529_Apocalipse_-_1080P_5.1_Dual_%25C3%2581udio.mp4/file"
           }
-
-
-
-
-
-
-
-
-
-
-
-
         ]
       }
     ]
