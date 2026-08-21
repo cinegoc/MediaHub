@@ -6,17 +6,6 @@
         "layout_type": "portrait",
         "items": [
           {
-            "id": "mov_01",
-            "type": "movie",
-            "title": "Scooby-Doo! O Filme",
-            "tag": "TOP 10",
-            "synopsis": "A Mistério S/A se reúne após dois anos de separação para investigar eventos paranormais em um resort de férias infestado de segredos.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/inIDHRJN8J3Izbxw8sCmqRjhWgF.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/gKjWLLV2qxHCZeSDCEUnm9ZbULI.png",
-            "video_url": "https://www.mediafire.com/file/l7ahxf0da0h7wb6/Scooby-Doo%2521_O_Filme.mp4/file"
-          }, 
-          {
             "id": "mov_02",
             "type": "movie",
             "title": "Scooby-Doo na Ilha dos Zumbis",
@@ -26,6 +15,17 @@
             "banner_url": "https://image.tmdb.org/t/p/original/yHnmmWHi8kyTsEXsFfW8sbwZMWH.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/2tp3ORXlgcZWSbEqfS1xo9cdNST.png",
             "video_url": "https://www.mediafire.com/file/6s7s6d61rq3zxlx/Scooby-Doo_na_Ilha_dos_Zumbis.mp4/file"
+          },
+          {
+            "id": "mov_17",
+            "type": "movie",
+            "title": "Scooby-Doo! De Volta à Ilha dos Zumbis",
+            "tag": "TOP 10",
+            "synopsis": "A turma decide tirar férias e viaja novamente para a famosa ilha dos zumbis, sem saber que novos mistérios os aguardam.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/dYGjun7Mrgg2PwD15b0t88DEYri.png",
+            "video_url": "https://www.mediafire.com/file/errc5c12vegjjsq/Scooby-_Doo%2521_De_Volta_%25C3%25A0_Ilha_dos_Zumbis.mp4/file"
           },
           {
             "id": "mov_03",
@@ -72,17 +72,6 @@
             "video_url": "https://www.mediafire.com/file/x8ngjc2alsr35rm/Scooby-Doo%2521_e_o_Abomin%25C3%25A1vel_Homem_D%25C3%25A1s_Neves.mp4/file"
           },
           {
-            "id": "mov_07",
-            "type": "movie",
-            "title": "Scooby-Doo! O Mistério Começa",
-            "tag": "TOP 10",
-            "synopsis": "Filme live-action que mostra como Salsicha, Scooby, Fred, Daphne e Velma se conheceram e formaram a Mistério S/A.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/cMdzPC7K1FmKNOBMVnqyyfEfxSI.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/b0NhAIyezIeST5Imy6dso1YLE6Q.png",
-            "video_url": "https://www.mediafire.com/file/ngmvv287gkjw610/Scooby-Doo%2521_O_Mist%25C3%25A9rio_Come%25C3%25A7a.mp4/file"
-          },
-          {
             "id": "mov_08",
             "type": "movie",
             "title": "Scooby-Doo! e a Espada do Samurai",
@@ -94,15 +83,15 @@
             "video_url": "https://www.mediafire.com/file/k6yhwbmjwh5457o/Scooby-Doo%2521_e_a_Espada_do_Samurai.mp4/file"
           },
           {
-            "id": "mov_09",
+            "id": "mov_25",
             "type": "movie",
-            "title": "Scooby-Doo! e a Maldição do Monstro do Lago",
+            "title": "Scooby-Doo! e a Espada (Versão Alternativa)",
             "tag": "TOP 10",
-            "synopsis": "Durante as férias de verão em um resort de propriedade do tio de Daphne, a gangue investiga estranhas aparições e ataques de um monstro lacustre.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/13anKM1yMz5cSUKZ214dSJzUlVf.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/iO10koyzy4OjUErHAEKea7WgurG.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/g9xLlWBONdmC7mrwOuwjzo4g6f6.png",
-            "video_url": "https://www.mediafire.com/file/vdtn3siigrvcd6j/Scooby-Doo%2521_e_a_Maldi%25C3%25A7%25C3%25A3o_do_Mostro_do_Lago.mp4/file"
+            "synopsis": "Versão adicional ou alternativa com foco na jornada épica da espada samurai e mistérios do oriente.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/zgWvMAmaWeuybWcUoKaX5EAkGDG.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/qj7lXvQo8WlTlL4cjR1vsaWqXM5.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/6DfmveQ9XQhj0plZCeK6qfdKkiB.png",
+            "video_url": "https://www.mediafire.com/file/6iyfi47nqqtux12/Scooby_Doo%2521_e_a_Espada.mp4/file"
           },
           {
             "id": "mov_10",
@@ -182,17 +171,6 @@
             "video_url": "https://www.mediafire.com/file/qxo4jg6hfk0wnky/Scooby-Doo%2521_e_A_Maldi%25C3%25A7%25C3%25A3o_dos_13%25C2%25B0_Fantasma.mp4/file"
           },
           {
-            "id": "mov_17",
-            "type": "movie",
-            "title": "Scooby-Doo! De Volta à Ilha dos Zumbis",
-            "tag": "TOP 10",
-            "synopsis": "A turma decide tirar férias e viaja novamente para a famosa ilha dos zumbis, sem saber que novos mistérios os aguardam.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/dYGjun7Mrgg2PwD15b0t88DEYri.png",
-            "video_url": "https://www.mediafire.com/file/errc5c12vegjjsq/Scooby-_Doo%2521_De_Volta_%25C3%25A0_Ilha_dos_Zumbis.mp4/file"
-          },
-          {
             "id": "mov_18",
             "type": "movie",
             "title": "Feliz Halloween, Scooby-Doo!",
@@ -248,6 +226,17 @@
             "video_url": "https://www.mediafire.com/file/1rzceg5em88ay16/Scooby-doo%2521_E_O_Combate_Do_Salsicha.mp4/file"
           },
           {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "Scooby-Doo! O Filme",
+            "tag": "TOP 10",
+            "synopsis": "A Mistério S/A se reúne após dois anos de separação para investigar eventos paranormais em um resort de férias infestado de segredos.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/inIDHRJN8J3Izbxw8sCmqRjhWgF.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/gKjWLLV2qxHCZeSDCEUnm9ZbULI.png",
+            "video_url": "https://www.mediafire.com/file/l7ahxf0da0h7wb6/Scooby-Doo%2521_O_Filme.mp4/file"
+          },
+          {
             "id": "mov_23",
             "type": "movie",
             "title": "Scooby-Doo! Monstros a Solta",
@@ -259,15 +248,26 @@
             "video_url": "https://www.mediafire.com/file/duelr6e7gze44iy/Scooby-Doo%2521_Monstros_a_solta.mp4/file"
           },
           {
-            "id": "mov_25",
+            "id": "mov_07",
             "type": "movie",
-            "title": "Scooby-Doo! e a Espada (Versão Alternativa)",
+            "title": "Scooby-Doo! O Mistério Começa",
             "tag": "TOP 10",
-            "synopsis": "Versão adicional ou alternativa com foco na jornada épica da espada samurai e mistérios do oriente.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/zgWvMAmaWeuybWcUoKaX5EAkGDG.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/qj7lXvQo8WlTlL4cjR1vsaWqXM5.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/6DfmveQ9XQhj0plZCeK6qfdKkiB.png",
-            "video_url": "https://www.mediafire.com/file/6iyfi47nqqtux12/Scooby_Doo%2521_e_a_Espada.mp4/file"
+            "synopsis": "Filme live-action que mostra como Salsicha, Scooby, Fred, Daphne e Velma se conheceram e formaram a Mistério S/A.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/cMdzPC7K1FmKNOBMVnqyyfEfxSI.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/b0NhAIyezIeST5Imy6dso1YLE6Q.png",
+            "video_url": "https://www.mediafire.com/file/ngmvv287gkjw610/Scooby-Doo%2521_O_Mist%25C3%25A9rio_Come%25C3%25A7a.mp4/file"
+          },
+          {
+            "id": "mov_09",
+            "type": "movie",
+            "title": "Scooby-Doo! e a Maldição do Monstro do Lago",
+            "tag": "TOP 10",
+            "synopsis": "Durante as férias de verão em um resort de propriedade do tio de Daphne, a gangue investiga estranhas aparições e ataques de um monstro lacustre.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/13anKM1yMz5cSUKZ214dSJzUlVf.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/iO10koyzy4OjUErHAEKea7WgurG.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/g9xLlWBONdmC7mrwOuwjzo4g6f6.png",
+            "video_url": "https://www.mediafire.com/file/vdtn3siigrvcd6j/Scooby-Doo%2521_e_a_Maldi%25C3%25A7%25C3%25A3o_do_Mostro_do_Lago.mp4/file"
           },
           {
             "id": "mov_24",
