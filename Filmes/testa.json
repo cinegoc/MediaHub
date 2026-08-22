@@ -1,0 +1,82 @@
+{
+  "streaming_app": {
+    "sections": [
+      {
+        "section_title": "Coleção: Resident Evil",
+        "layout_type": "portrait",
+        "items": [
+          {
+            "id": "mov_01",
+            "type": "movie",
+            "title": "Resident Evil: Degeneração",
+            "tag": "TOP 10",
+            "synopsis": "Um ataque bioterrorista leva um vírus mortal ao aeroporto de Harvardville. Leon S. Kennedy e Claire Redfield, sobreviventes do incidente em Raccoon City, se reencontram 7 anos depois para enfrentar a ameaça e descobrir a verdade por trás da corporação WilPharma.",
+            "cover_url": "https://image.tmdb.org/t/p/original/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
+            "logo_url": "https://m.media-amazon.com/images/S/pv-target-images/0c08e1966863a4d47cbddaf5a69793d9271266e635a70dd6b315ce77d806f69e._BR-6_AC_SX600_FMwebp_.png",
+            "cover_tv_url": "https://image.tmdb.org/t/p/original/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg",
+            "banner_tv_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
+            "cover_landscape_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
+            "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg"
+          },
+          {
+            "id": "mov_02",
+            "type": "movie",
+            "title": "Resident Evil: A Condenação",
+            "tag": "TOP 10",
+            "synopsis": "O agente especial Leon S. Kennedy se infiltra em uma pequena república na Europa Oriental para verificar rumores sobre o uso de armas bio-orgânicas (B.O.W.s) em uma guerra civil. Lá, ele descobre uma conspiração aterrorizante envolvendo o controle de Las Plagas.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/mzc5K7Lz4d3CM91pdQA7xAatDt7.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/8738onJo6QO8wyh4JysvEt8hI27.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/yEp0IvD4RXwxP7siPglnagCq0q2.png",
+            "cover_tv_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/mzc5K7Lz4d3CM91pdQA7xAatDt7.jpg",
+            "banner_tv_url": "https://image.tmdb.org/t/p/original/8738onJo6QO8wyh4JysvEt8hI27.jpg",
+            "cover_landscape_url": "https://image.tmdb.org/t/p/original/8738onJo6QO8wyh4JysvEt8hI27.jpg",
+            "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/8738onJo6QO8wyh4JysvEt8hI27.jpg"
+          },
+          {
+            "id": "mov_03",
+            "type": "movie",
+            "title": "Resident Evil: A Vingança",
+            "tag": "TOP 10",
+            "synopsis": "O agente da DSO Leon S. Kennedy é enviado para resgatar uma operadora infiltrada, mas sua missão sofre uma reviravolta quando ele cruza o caminho de Glenn Arias, um criminoso procurado que planeja espalhar um vírus mortal por Nova York em busca de vingança. Agora, Leon une forças com Chris Redfield e Rebecca Chambers para impedir a catástrofe.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/5ECiFmRVaLqRp3wjJcHgfSKzneS.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/tSCPWt3x6IwKOatTfcHUpbyeXLz.png",
+            "cover_tv_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg",
+            "banner_tv_url": "https://image.tmdb.org/t/p/original/5ECiFmRVaLqRp3wjJcHgfSKzneS.jpg",
+            "cover_landscape_url": "https://image.tmdb.org/t/p/original/5ECiFmRVaLqRp3wjJcHgfSKzneS.jpg",
+            "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/5ECiFmRVaLqRp3wjJcHgfSKzneS.jpg"
+          },
+          {
+            "id": "mov_04",
+            "type": "movie",
+            "title": "Resident Evil: A Ilha Fatal (2023)",
+            "tag": "TOP 10",
+            "synopsis": "O agente Leon S. Kennedy entra em uma missão para resgatar o Dr. Antonio Taylor, enquanto Chris Redfield investiga um surto de zumbis em São Francisco. As pistas levam os heróis a um único lugar: a antiga prisão na Ilha de Alcatraz, onde um novo pesadelo os aguarda.",
+            "cover_url": "https://image.tmdb.org/t/p/original/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/rhGmwjiUdEGkhFBn5fxtGjkFiTq.png",
+            "cover_tv_url": "https://image.tmdb.org/t/p/original/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+            "banner_tv_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
+            "cover_landscape_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg",
+            "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/qML773ukKgeJHBOsLyI4ZhrNGZx.jpg"
+          },
+          {
+            "id": "mov_05",
+            "type": "movie",
+            "title": "Resident Evil: O Hóspede Maldito",
+            "tag": "TOP 10",
+            "synopsis": "Num laboratório genético subterrâneo secreto da poderosa Corporação Umbrella, um vírus mortal escapa, transformando os cientistas em zumbis vorazes e liberando armas biológicas mutantes criadas pela empresa. Uma equipe de comandos de elite, incluindo Alice e Rain, é enviada para conter o surto antes que ele se espalhe para a superfície.",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/1qmqIdPOX2aFfT9BSAfJr5rAbt6.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/tNhZY1CtUPAKGkzi0XrJHO7vcLA.png",
+            "cover_tv_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg",
+            "banner_tv_url": "https://image.tmdb.org/t/p/original/1qmqIdPOX2aFfT9BSAfJr5rAbt6.jpg",
+            "cover_landscape_url": "https://image.tmdb.org/t/p/original/1qmqIdPOX2aFfT9BSAfJr5rAbt6.jpg",
+            "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/1qmqIdPOX2aFfT9BSAfJr5rAbt6.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
