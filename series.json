@@ -14,7 +14,7 @@
             "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/bxvG5Faq3pVb4RzrHrzM1cvuuk9.png",
             "release_year": "2026",
-            "seasons_count": 1,
+            "seasons_count": 5,
             "seasons": [
               {
                 "season_number": 1,
@@ -27,15 +27,62 @@
                     "synopsis": "Cem jovens delinquentes são enviados à Terra em uma missão perigosa para testar se o planeta é novamente habitável.",
                     "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
                     "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file"
-                  },
+                  }
+                ]
+              },
+              {
+                "season_number": 2,
+                "episodes": [
                   {
-                    "episode_number": 2,
-                    "title": "Pisando em Ovos",
-                    "duration": "42min",
-                    "time_info": "26 maio PM",
-                    "synopsis": "Ao explorarem o novo terreno, os cem sobreviventes enfrentam os desafios de um mundo desconhecido e lutam para estabelecer suas próprias regras.",
+                    "episode_number": 1,
+                    "title": "O Despertar da Névoa",
+                    "duration": "44min",
+                    "time_info": "27 maio PM",
+                    "synopsis": "Novas ameaças surgem nas sombras enquanto o grupo tenta entender os segredos escondidos nos abrigos subterrâneos.",
                     "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
                     "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file"
+                  }
+                ]
+              },
+              {
+                "season_number": 3,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Além da Cidade da Mente",
+                    "duration": "48min",
+                    "time_info": "28 maio PM",
+                    "synopsis": "Uma inteligência artificial fora de controle começa a ditar as regras e manipular a mente dos sobreviventes.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+                    "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file"
+                  }
+                ]
+              },
+              {
+                "season_number": 4,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "ConTAGem Regressiva",
+                    "duration": "45min",
+                    "time_info": "29 maio PM",
+                    "synopsis": "Com a iminente destruição nuclear da superfície, o tempo está se esgotando para encontrar um refúgio seguro.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg",
+                    "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file"
+                  }
+                ]
+              },
+              {
+                "season_number": 5,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Um Novo Éden",
+                    "duration": "50min",
+                    "time_info": "30 maio PM",
+                    "synopsis": "Anos após os eventos apocalípticos, uma misteriosa nave de transporte aterrissa no único vale verde restante.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file"
                   }
                 ]
               }
