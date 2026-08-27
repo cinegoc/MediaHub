@@ -6,6 +6,38 @@
         "layout_type": "landscape",
         "items": [
           {
+            "id": "ser_stranger_things",
+            "type": "series",
+            "title": "Stranger Things",
+            "synopsis": "Quando um garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais assustadoras e uma garota muito estranha.",
+            "cover_url": "https://image.tmdb.org/t/p/original/49WJfeN0moxb9IPfGn88qMG4RjM.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
+            "logo_url": "https://image.tmdb.org/t/p/original/32t05963f4b005e836ec4ff.png",
+            "release_year": "2016",
+            "seasons_count": 1,
+            "seasons": [
+              {
+                "season_number": 1,
+                "episodes": [
+                  {
+                    "episode_number": 1,
+                    "title": "Capítulo Um: O Desaparecimento de Will Byers",
+                    "duration": "48min",
+                    "time_info": "27 ago AM",
+                    "synopsis": "No caminho de volta para casa, Will é aterrorizado por algo misterioso. Perto dali, um segredo sinistro espreita nas profundezas de um laboratório do governo.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
+                    "video_url": "https://www.mediafire.com/file/iyi8b5dn2jdunzt/Stranger_Things_T1x01_Dub.mp4/file"
+                  },
+                  {
+                    "episode_number": 2,
+                    "title": "Capítulo Dois: A Estranha na Rua Maple",
+                    "duration": "55min",
+                    "time_info": "27 ago AM",
+                    "synopsis": "Lucas, Mike e Dustin tentam conversar com a garota misteriosa que encontraram na floresta. Hopper interroga Joyce sobre uma ligação telefônica perturbadora.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "video_url": "https://www.mediafire.com/file/397lb8a4ug4s3d7/Stranger_Things_T1x02_Dub.mp4/file"
+                  },
+          {
             "id": "ser_01",
             "type": "series",
             "title": "The 100",
