@@ -1,18 +1,18 @@
 {
   "streaming_app": {
     "sections": [
-      {
-        "section_title": "Originais e exclusivos em destaque",
-        "layout_type": "landscape",
-        "items": [
-          {
+               {
             "id": "ser_stranger_things",
             "type": "series",
             "title": "Stranger Things",
             "synopsis": "Quando um garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais assustadoras e uma garota muito estranha.",
-            "cover_url": "https://image.tmdb.org/t/p/original/49WJfeN0moxb9IPfGn88qMG4RjM.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
-            "logo_url": "https://image.tmdb.org/t/p/original/32t05963f4b005e836ec4ff.png",
+            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/vqIzZJKlphpp06rSphsH1uBJAsD.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "logo_url": "https://media.themoviedb.org/t/p/w1280/tFKeQ91EeyMfMEwA59nzjhKbNkT.png",
+            "cover_landscape_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
+            "cover_tv_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
+            "banner_tv_url": "",
+            "cover_landscape_tv_ur": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
             "release_year": "2016",
             "seasons_count": 1,
             "seasons": [
@@ -25,7 +25,8 @@
                     "duration": "48min",
                     "time_info": "27 ago AM",
                     "synopsis": "No caminho de volta para casa, Will é aterrorizado por algo misterioso. Perto dali, um segredo sinistro espreita nas profundezas de um laboratório do governo.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
+                    "cover_url": "https://image.tmdb.org/t/p/w780/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
+                    "cover_landscape_url": "https://image.tmdb.org/t/p/w780/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
                     "video_url": "https://www.mediafire.com/file/iyi8b5dn2jdunzt/Stranger_Things_T1x01_Dub.mp4/file"
                   },
                   {
@@ -34,7 +35,8 @@
                     "duration": "55min",
                     "time_info": "27 ago AM",
                     "synopsis": "Lucas, Mike e Dustin tentam conversar com a garota misteriosa que encontraram na floresta. Hopper interroga Joyce sobre uma ligação telefônica perturbadora.",
-                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "cover_url": "https://image.tmdb.org/t/p/w780/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+                    "cover_landscape_url": "https://image.tmdb.org/t/p/w780/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
                     "video_url": "https://www.mediafire.com/file/397lb8a4ug4s3d7/Stranger_Things_T1x02_Dub.mp4/file"
                   }
                 ]
