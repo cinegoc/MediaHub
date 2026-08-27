@@ -36,7 +36,11 @@
                     "synopsis": "Lucas, Mike e Dustin tentam conversar com a garota misteriosa que encontraram na floresta. Hopper interroga Joyce sobre uma ligação telefônica perturbadora.",
                     "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
                     "video_url": "https://www.mediafire.com/file/397lb8a4ug4s3d7/Stranger_Things_T1x02_Dub.mp4/file"
-                  },
+                  }
+                ]
+              }
+            ]
+          },
           {
             "id": "ser_01",
             "type": "series",
@@ -45,7 +49,7 @@
             "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
             "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/bxvG5Faq3pVb4RzrHrzM1cvuuk9.png",
-            "release_year": "2026",
+            "release_year": "2014",
             "seasons_count": 5,
             "seasons": [
               {
@@ -90,7 +94,7 @@
                   { "episode_number": 7, "title": "Queda do Sistema", "duration": "44min", "time_info": "28 maio PM", "synopsis": "Tentativa desesperada de invasão ao mainframe central.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
                   { "episode_number": 8, "title": "Ressurreição", "duration": "47min", "time_info": "28 maio PM", "synopsis": "Forças ocultas tentam reverter os danos causados pela IA.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
                   { "episode_number": 9, "title": "O Despertar Coletivo", "duration": "45min", "time_info": "28 maio PM", "synopsis": "Reféns recuperam o controle de suas próprias consciências.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 10, "title": "Des Под Conexão", "duration": "51min", "time_info": "28 maio PM", "synopsis": "O confronto definitivo contra a inteligência artificial hostil.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
+                  { "episode_number": 10, "title": "Desconexão", "duration": "51min", "time_info": "28 maio PM", "synopsis": "O confronto definitivo contra a inteligência artificial hostil.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
                 ]
               },
               {
@@ -120,7 +124,7 @@
                   { "episode_number": 7, "title": "A Queda do Vale", "duration": "45min", "time_info": "30 maio PM", "synopsis": "Bombardeios estratégicos mudam o curso do conflito.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
                   { "episode_number": 8, "title": "Ultimato", "duration": "49min", "time_info": "30 maio PM", "synopsis": "Condições extremas são impostas para evitar a destruição total.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
                   { "episode_number": 9, "title": "Êxodo Forçado", "duration": "46min", "time_info": "30 maio PM", "synopsis": "População inteira evacua o vale em direção às naves.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 10, "title": "Um Novo Horizontes", "duration": "55min", "time_info": "30 maio PM", "synopsis": "O despertar em cripto-sono rumo a um sistema estelar desconhecido.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
+                  { "episode_number": 10, "title": "Um Novo Horizonte", "duration": "55min", "time_info": "30 maio PM", "synopsis": "O despertar em cripto-sono rumo a um sistema estelar desconhecido.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
                 ]
               }
             ]
