@@ -6,89 +6,37 @@
         "layout_type": "landscape",
         "items": [
           {
-            "id": "ser_01",
+            "id": "ser_stranger_things",
             "type": "series",
-            "title": "The",
-            "synopsis": "Após 97 anos de uma guerra nuclear que devastou o planeta, os únicos sobreviventes conhecidos habitam estações espaciais. Para garantir a sobrevivência da raça humana, cem jovens prisioneiros são enviados de volta à Terra para verificar se o ambiente tornou-se habitável novamente.",
-            "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/bxvG5Faq3pVb4RzrHrzM1cvuuk9.png",
-            "release_year": "2026",
-            "seasons_count": 5,
+            "title": "Stranger Things",
+            "synopsis": "Quando um garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais assustadoras e uma garota muito estranha.",
+            "cover_url": "https://image.tmdb.org/t/p/original/49WJfeN0moxb9IPfGn88qMG4RjM.jpg",
+            "banner_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
+            "logo_url": "https://image.tmdb.org/t/p/original/32t05963f4b005e836ec4ff.png",
+            "release_year": "2016",
+            "seasons_count": 1,
             "seasons": [
               {
                 "season_number": 1,
                 "episodes": [
-                  { "episode_number": 1, "title": "Entre no meu Escritório", "duration": "46min", "time_info": "26 maio PM", "synopsis": "Cem jovens delinquentes são enviados à Terra em uma missão perigosa.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 2, "title": "Pisando em Ovos", "duration": "42min", "time_info": "26 maio PM", "synopsis": "Os sobreviventes enfrentam os desafios de um mundo desconhecido.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 3, "title": "Terra Firme", "duration": "44min", "time_info": "26 maio PM", "synopsis": "Sinais de que eles não estão sozinhos começam a aparecer na floresta.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 4, "title": "Lei e Ordem", "duration": "45min", "time_info": "26 maio PM", "synopsis": "Um crime abala o acampamento e força o grupo a julgar um dos seus.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 5, "title": "Fogo Cruzado", "duration": "43min", "time_info": "26 maio PM", "synopsis": "A tensão aumenta quando suprimentos vitais começam a escassear.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 6, "title": "Refúgio Oculto", "duration": "47min", "time_info": "26 maio PM", "synopsis": "Uma estrutura antiga do tempo pré-guerra é descoberta na mata.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 7, "title": "Contágio", "duration": "41min", "time_info": "26 maio PM", "synopsis": "Uma doença misteriosa ameaça dizimar o acampamento principal.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 8, "title": "Traição na Névoa", "duration": "45min", "time_info": "26 maio PM", "synopsis": "Alianças são rompidas e segredos perigosos vêm à tona.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 9, "title": "Dia de Acerto de Contas", "duration": "49min", "time_info": "26 maio PM", "synopsis": "O confronto iminente com os nativos da Terra se torna inevitável.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 10, "title": "O Fogo do Juízo", "duration": "52min", "time_info": "26 maio PM", "synopsis": "A Batalha final da temporada decide o destino de todos na Terra.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
-                ]
-              },
-              {
-                "season_number": 2,
-                "episodes": [
-                  { "episode_number": 1, "title": "O Despertar da Névoa", "duration": "44min", "time_info": "27 maio PM", "synopsis": "Novas ameaças surgem nas sombras dos abrigos subterrâneos.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 2, "title": "Prisioneiros do Monte", "duration": "46min", "time_info": "27 maio PM", "synopsis": "O grupo descobre um complexo tecnológico avançado, mas restritivo.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 3, "title": "Fios Invisíveis", "duration": "43min", "time_info": "27 maio PM", "synopsis": "Experimentos secretos começam a preocupar os recém-chegados.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 4, "title": "Fora da Caixa", "duration": "45min", "time_info": "27 maio PM", "synopsis": "Estratégias de fuga começam a ser planejadas em segredo absoluto.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 5, "title": "A Marcha", "duration": "42min", "time_info": "27 maio PM", "synopsis": "Tropas se movimentam pelo deserto em direção ao território hostil.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 6, "title": "Acordo Sangrento", "duration": "47min", "time_info": "27 maio PM", "synopsis": "Negociações difíceis colocam líderes em lados opostos.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 7, "title": "Janela Quebrada", "duration": "44min", "time_info": "27 maio PM", "synopsis": "Defesas do complexo sofrem uma infiltração surpresa.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 8, "title": "Guerra Fria", "duration": "48min", "time_info": "27 maio PM", "synopsis": "A pressão interna gera motins dentro das instalações.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 9, "title": "Última Cartada", "duration": "46min", "time_info": "27 maio PM", "synopsis": "Uma decisão drástica precisa ser tomada para salvar o clã.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 10, "title": "O Preço da Vitória", "duration": "53min", "time_info": "27 maio PM", "synopsis": "O desfecho dramático da segunda temporada altera o mapa de poder.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" }
-                ]
-              },
-              {
-                "season_number": 3,
-                "episodes": [
-                  { "episode_number": 1, "title": "Além da Cidade da Mente", "duration": "48min", "time_info": "28 maio PM", "synopsis": "Uma inteligência artificial fora de controle dita as regras.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 2, "title": "A Chave", "duration": "43min", "time_info": "28 maio PM", "synopsis": "Busca intensa pelo artefato capaz de desligar a rede virtual.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 3, "title": "Mentes Conectadas", "duration": "45min", "time_info": "28 maio PM", "synopsis": "Cada vez mais pessoas são absorvidas pela mente digital.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 4, "title": "Linha de Frente", "duration": "46min", "time_info": "28 maio PM", "synopsis": "Resistência monta bloqueios nas rotas comerciais.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 5, "title": "Código Vermelho", "duration": "42min", "time_info": "28 maio PM", "synopsis": "Sistemas de segurança automatizados entram em pane total.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 6, "title": "Sombra e Luz", "duration": "49min", "time_info": "28 maio PM", "synopsis": "Dilemas morais testam a lealdade dos velhos amigos.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 7, "title": "Queda do Sistema", "duration": "44min", "time_info": "28 maio PM", "synopsis": "Tentativa desesperada de invasão ao mainframe central.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 8, "title": "Ressurreição", "duration": "47min", "time_info": "28 maio PM", "synopsis": "Forças ocultas tentam reverter os danos causados pela IA.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 9, "title": "O Despertar Coletivo", "duration": "45min", "time_info": "28 maio PM", "synopsis": "Reféns recuperam o controle de suas próprias consciências.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 10, "title": "Des Под Conexão", "duration": "51min", "time_info": "28 maio PM", "synopsis": "O confronto definitivo contra a inteligência artificial hostil.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
-                ]
-              },
-              {
-                "season_number": 4,
-                "episodes": [
-                  { "episode_number": 1, "title": "Contagem Regressiva", "duration": "45min", "time_info": "29 maio PM", "synopsis": "A iminente destruição nuclear da superfície coloca o tempo em xeque.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 2, "title": "Cinzas no Vento", "duration": "43min", "time_info": "29 maio PM", "synopsis": "Primeiras ondas de radiação atingem as fronteiras externas.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 3, "title": "Corrida Contra o Tempo", "duration": "46min", "time_info": "29 maio PM", "synopsis": "Engenheiros tentam selar os bunkers subterrâneos a tempo.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 4, "title": "Escolhas Difíceis", "duration": "44min", "time_info": "29 maio PM", "synopsis": "O sorteio das vagas nos abrigos causa revolta popular.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 5, "title": "Chuva Negra", "duration": "48min", "time_info": "29 maio PM", "synopsis": "A primeira tempestade radioativa obriga todos a se esconderem.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 6, "title": "Silêncio Mortal", "duration": "42min", "time_info": "29 maio PM", "synopsis": "Comunicação entre os setores é cortada por interferência.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 7, "title": "Conspiração no Escuro", "duration": "47min", "time_info": "29 maio PM", "synopsis": "Tentativa de golpe de Estado dentro do bunker principal.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 8, "title": "Fora do Ar", "duration": "45min", "time_info": "29 maio PM", "synopsis": "Equipe de reparos arrisca a vida na superfície tóxica.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 9, "title": "O Último Voo", "duration": "49min", "time_info": "29 maio PM", "synopsis": "Missão de resgate desesperada nas horas finais do prazo.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 10, "title": "Fim do Mundo Parte 1", "duration": "54min", "time_info": "29 maio PM", "synopsis": "A onda de fogo consome a superfície da Terra mais uma vez.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" }
-                ]
-              },
-              {
-                "season_number": 5,
-                "episodes": [
-                  { "episode_number": 1, "title": "Um Novo Éden", "duration": "50min", "time_info": "30 maio PM", "synopsis": "Anos depois, uma misteriosa nave aterrissa no único vale verde.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 2, "title": "Visitantes Indesejados", "duration": "46min", "time_info": "30 maio PM", "synopsis": "Prisioneiros espaciais reivindicam o domínio do último pedaço fértil.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 3, "title": "Guerra por Território", "duration": "44min", "time_info": "30 maio PM", "synopsis": "Conflitos armados eclodem pelo controle das fontes de água.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 4, "title": "Alianças Perigosas", "duration": "48min", "time_info": "30 maio PM", "synopsis": "Rivais do passado precisam se unir contra um inimigo comum.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 5, "title": "Marcha Fúnebre", "duration": "42min", "time_info": "30 maio PM", "synopsis": "Baixas importantes abalam o moral das tropas terrestres.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 6, "title": "Estratégia de Fuga", "duration": "47min", "time_info": "30 maio PM", "synopsis": "Infiltração na base inimiga para resgatar reféns capturados.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 7, "title": "A Queda do Vale", "duration": "45min", "time_info": "30 maio PM", "synopsis": "Bombardeios estratégicos mudam o curso do conflito.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 8, "title": "Ultimato", "duration": "49min", "time_info": "30 maio PM", "synopsis": "Condições extremas são impostas para evitar a destruição total.", "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" },
-                  { "episode_number": 9, "title": "Êxodo Forçado", "duration": "46min", "time_info": "30 maio PM", "synopsis": "População inteira evacua o vale em direção às naves.", "cover_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg", "video_url": "https://www.mediafire.com/file/tfzr1kndokyvny1/TH01.mp4/file" },
-                  { "episode_number": 10, "title": "Um Novo Horizontes", "duration": "55min", "time_info": "30 maio PM", "synopsis": "O despertar em cripto-sono rumo a um sistema estelar desconhecido.", "cover_url": "https://image.tmdb.org/t/p/original/ApUrW3EMS2Xsvj3Ifr0Ob2S6Bbt.jpg", "video_url": "https://www.mediafire.com/file/77o8u2yoh4wa64t/TH02.mp4/file" }
+                  {
+                    "episode_number": 1,
+                    "title": "Capítulo Um: O Desaparecimento de Will Byers",
+                    "duration": "48min",
+                    "time_info": "27 ago AM",
+                    "synopsis": "No caminho de volta para casa, Will é aterrorizado por algo misterioso. Perto dali, um segredo sinistro espreita nas profundezas de um laboratório do governo.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/56v2Kj2RCy22N4vYW8v7GJGoB92.jpg",
+                    "video_url": "https://www.mediafire.com/file/iyi8b5dn2jdunzt/Stranger_Things_T1x01_Dub.mp4/file"
+                  },
+                  {
+                    "episode_number": 2,
+                    "title": "Capítulo Dois: A Estranha na Rua Maple",
+                    "duration": "55min",
+                    "time_info": "27 ago AM",
+                    "synopsis": "Lucas, Mike e Dustin tentam conversar com a garota misteriosa que encontraram na floresta. Hopper interroga Joyce sobre uma ligação telefônica perturbadora.",
+                    "cover_url": "https://image.tmdb.org/t/p/original/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg",
+                    "video_url": "https://www.mediafire.com/file/397lb8a4ug4s3d7/Stranger_Things_T1x02_Dub.mp4/file"
+                  }
                 ]
               }
             ]
