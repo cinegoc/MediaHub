@@ -1,10 +1,9 @@
- "streaming_app": {
+{
+  "streaming_app": {
     "sections": [
       {
         "section_title": "Coleção: Resident Evil",
         "layout_type": "portrait",
-        "section_title": "Originais e exclusivos em destaque",
-        "layout_type": "landscape",
         "items": [
           {
             "id": "mov_01",
@@ -28,7 +27,7 @@
             "tag": "TOP 10",
             "synopsis": "O agente especial Leon S. Kennedy se infiltra em uma pequena república na Europa Oriental para verificar rumores sobre o uso de armas bio-orgânicas (B.O.W.s) em uma guerra civil. Lá, ele descobre uma conspiração aterrorizante envolvendo o controle de Las Plagas.",
             "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/mzc5K7Lz4d3CM91pdQA7xAatDt7.jpg",
-            "banner_url": "https://i.postimg.cc/v8JfWSpg/Ada.webp",
+            "banner_url": "https://image.tmdb.org/t/p/original/8738onJo6QO8wyh4JysvEt8hI27.jpg",
             "logo_url": "https://media.themoviedb.org/t/p/w1280/yEp0IvD4RXwxP7siPglnagCq0q2.png",
             "cover_landscape_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/fdqBBsPxq0UZXOGiaBrCv4hi4wG.jpg",
             "cover_tv_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/fdqBBsPxq0UZXOGiaBrCv4hi4wG.jpg",
@@ -140,46 +139,6 @@
             "banner_tv_url": "",
             "cover_landscape_tv_ur": "",
             "video_url": "https://www.mediafire.com/file/ng6inpbn9ypxr3w/%25282012%2529_Retribui%25C3%25A7%25C3%25A3o_-_1080p_5.1_Dual_%25C3%2581udio.mp4/file"
-            "id": "ser_stranger_things",
-            "type": "series",
-            "title": "Stranger Things",
-            "synopsis": "Quando um garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais assustadoras e uma garota muito estranha.",
-            "cover_url": "https://media.themoviedb.org/t/p/w440_and_h660_face/vqIzZJKlphpp06rSphsH1uBJAsD.jpg",
-            "banner_url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
-            "logo_url": "https://media.themoviedb.org/t/p/w1280/tFKeQ91EeyMfMEwA59nzjhKbNkT.png",
-            "cover_landscape_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
-            "cover_tv_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
-            "banner_tv_url": "",
-            "cover_landscape_tv_ur": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
-            "release_year": "2016",
-            "seasons_count": 1,
-            "seasons": [
-              {
-                "season_number": 1,
-                "episodes": [
-                  {
-                    "episode_number": 1,
-                    "title": "Capítulo Um: O Desaparecimento de Will Byers",
-                    "duration": "48min",
-                    "time_info": "27 ago AM",
-                    "synopsis": "No caminho de volta para casa, Will é aterrorizado por algo misterioso. Perto dali, um segredo sinistro espreita nas profundezas de um laboratório do governo.",
-                    "cover_url": "https://image.tmdb.org/t/p/w780/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
-                    "cover_landscape_url": "https://image.tmdb.org/t/p/w780/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
-                    "video_url": "https://www.mediafire.com/file/iyi8b5dn2jdunzt/Stranger_Things_T1x01_Dub.mp4/file"
-                  },
-                  {
-                    "episode_number": 2,
-                    "title": "Capítulo Dois: A Estranha na Rua Maple",
-                    "duration": "55min",
-                    "time_info": "27 ago AM",
-                    "synopsis": "Lucas, Mike e Dustin tentam conversar com a garota misteriosa que encontraram na floresta. Hopper interroga Joyce sobre uma ligação telefônica perturbadora.",
-                    "cover_url": "https://image.tmdb.org/t/p/w780/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
-                    "cover_landscape_url": "https://image.tmdb.org/t/p/w780/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
-                    "video_url": "https://www.mediafire.com/file/397lb8a4ug4s3d7/Stranger_Things_T1x02_Dub.mp4/file"
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
