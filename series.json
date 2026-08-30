@@ -19,8 +19,10 @@
             "cover_landscape_tv_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5L5NccHDVDr7tZ9WB2jBWxZ6Z3R.jpg",
             "release_year": "2016",
             "seasons_count": 1,
-            "tag_name": "NOVO EPISÓDIO",
-            "tag_info": "Novo episódio quarta-feira",
+            "tag_name": "TOP 1",
+            "tag_info": "Dublado",
+            "reg_name": "NOVO EPISÓDIO",
+            "reg_info": "Novo episódio quarta-feira",
             "seasons": [
               {
                 "season_number": 1,
@@ -63,6 +65,10 @@
             "cover_landscape_tv_url": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
             "release_year": "2014",
             "seasons_count": 1,
+            "tag_name": "POPULAR",
+            "tag_info": "Dublado",
+            "reg_name": "COMPLETO",
+            "reg_info": "Todas as temporadas",
             "seasons": [
               {
                 "season_number": 1,
